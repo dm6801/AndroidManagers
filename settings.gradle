@@ -1,0 +1,3 @@
+include ':AndroidManagers'
+include ':app'
+rootProject.name = "Managers Example"
